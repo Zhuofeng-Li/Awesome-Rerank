@@ -7,3 +7,5 @@
 - (*KDD'24*) Non-autoregressive Generative Models for Reranking Recommendation [[paper](https://arxiv.org/abs/2402.06871)], 2024.2, ![Static Badge](https://img.shields.io/badge/GenerativeModels-8A2BE2) ![Static Badge](https://img.shields.io/badge/NonAutoregressiveModels-red)
 - (*KDD'23*) PIER: Permutation-Level Interest-Based End-to-End Re-ranking Framework in E-commerce [[paper](https://arxiv.org/abs/2302.03487)][[code](https://github.com/Lemonace/PIER_code)], 2023.2, ![Static Badge](https://img.shields.io/badge/Transformer-fedcba)
 - (*Preprint'21*) Revisit Recommender System in the Permutation Prospective [[paper](https://arxiv.org/abs/2102.12057)], 2021.2, ![Static Badge](https://img.shields.io/badge/BeamSearch-blue) ![Static Badge](https://img.shields.io/badge/RNN-4169E1)
+- (*WWW'24*) Discrete Conditional Diffusion for Reranking in Recommendation [[paper](https://arxiv.org/abs/2308.06982)], 2023.8, ![Static Badge](https://img.shields.io/badge/GenerativeModels-8A2BE2) ![Static Badge](https://img.shields.io/badge/Diffusion-green)
+
